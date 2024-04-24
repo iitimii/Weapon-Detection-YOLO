@@ -15,7 +15,7 @@ This is a weapon detection system developed by Zummit Africa Group 1 using the Y
 
 ## Installation
 
-1. Clone the repository: ```git clone```
+1. Clone the repository: ```git clone https://github.com/iitimii/Weapon-Detection-YOLO.git```
 2. Navigate to the project directory: ```cd Weapon-Detection-YOLO```
 3. Install the required dependencies: ```requirements.txt```
 4. Install YOLOv8: ```pip install ultralytics```
