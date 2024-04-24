@@ -15,10 +15,10 @@ This is a weapon detection system developed by Zummit Africa Group 1 using the Y
 
 ## Installation
 
-1. Clone the repository:
-2. Navigate to the project directory:
-3. Install the required dependencies:
-4. Install YOLOv8:
+1. Clone the repository: ```git clone```
+2. Navigate to the project directory: ```cd Weapon-Detection-YOLO```
+3. Install the required dependencies: ```requirements.txt```
+4. Install YOLOv8: ```pip install ultralytics```
 
 ## Usage
 
@@ -37,7 +37,3 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-**Note:** When you paste this code into a GitHub repository, the markup language symbols will be rendered correctly, providing the desired effects such as headings, code blocks, links, and more.
